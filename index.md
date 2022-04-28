@@ -62,12 +62,12 @@ end
 
 * * *
 
-### Here is an unordered list:
+### Hello Everypne:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   I am currently working as Support Executive in Telecom domain.
+*   Having experience in PL/SQL, Unix, BI and ETL technologies.
+*   I am learning Data Science, ML, NLP, would like to work on these projects.
+*   Reach me: sarika.sakore@gmail.com
 
 ### And an ordered list:
 
