@@ -69,15 +69,15 @@ end
 *   I am learning Data Science, ML, NLP, would like to work on these projects.
 *   Reach to: sarika.sakore@gmail.com
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 <centre><img src="/assets/img/Title.PNG"/></center>
 
-<img src="/assets/img/DB.PNG"/>   PL/SQL, SQL <br>
-<img src="/assets/img/UNIX.PNG"/> UNIX <br>
-<img src="/assets/img/ETL.PNG"/>  ETL <br>
-<img src="/assets/img/Pyth.PNG"/> Python <br>
-<img src="/assets/img/GIT.PNG"/>  Git and GitHub <br>
-<img src="/assets/img/EXCL.PNG"/> Excel <br>
+<img src="/assets/img/DB.PNG" width="50" height="50" />   PL/SQL, SQL <br>
+<img src="/assets/img/UNIX.PNG" width="50" height="50" /> UNIX <br>
+<img src="/assets/img/ETL.PNG" width="50" height="50" />  ETL <br>
+<img src="/assets/img/Pyth.PNG" width="50" height="50" /> Python <br>
+<img src="/assets/img/GIT.PNG" width="50" height="50" />  Git and GitHub <br>
+<img src="/assets/img/EXCL.PNG" width="50" height="50" /> Excel <br>
 
 ### And a nested list:
 
