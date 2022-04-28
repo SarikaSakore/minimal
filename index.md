@@ -67,16 +67,16 @@ end
 *   I am currently working as Support Executive in Telecom domain.
 *   Having experience in PL/SQL, Unix, BI and ETL technologies.
 *   I am learning Data Science, ML, NLP, would like to work on these projects.
-*   Reach me: sarika.sakore@gmail.com
+*   Reach to: sarika.sakore@gmail.com
 
-<centre><img src="/assets/img/Title.png"></center>
+<centre><img src="/assets/img/Title.png"/></center>
 
-<img src="/assets/img/DB.png">   PL/SQL, SQL <br>
-<img src="/assets/img/UNIX.png"> UNIX <br>
-<img src="/assets/img/ETL.png">  ETL <br>
-<img src="/assets/img/Pyth.png"> Python <br>
-<img src="/assets/img/GIT.png">  Git and GitHub <br>
-<img src="/assets/img/EXCL.png"> Excel <br>
+<img src="/assets/img/DB.png"/>   PL/SQL, SQL <br>
+<img src="/assets/img/UNIX.png"/> UNIX <br>
+<img src="/assets/img/ETL.png"/>  ETL <br>
+<img src="/assets/img/Pyth.png"/> Python <br>
+<img src="/assets/img/GIT.png"/>  Git and GitHub <br>
+<img src="/assets/img/EXCL.png"/> Excel <br>
 
 ### And a nested list:
 
