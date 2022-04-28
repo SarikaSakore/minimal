@@ -69,12 +69,14 @@ end
 *   I am learning Data Science, ML, NLP, would like to work on these projects.
 *   Reach me: sarika.sakore@gmail.com
 
-### And an ordered list:
+<centre><img src="/assets/img/Title.png"></center>
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+<img src="/assets/img/DB.png">   PL/SQL, SQL <br>
+<img src="/assets/img/UNIX.png"> UNIX <br>
+<img src="/assets/img/ETL.png">  ETL <br>
+<img src="/assets/img/Pyth.png"> Python <br>
+<img src="/assets/img/GIT.png">  Git and GitHub <br>
+<img src="/assets/img/EXCL.png"> Excel <br>
 
 ### And a nested list:
 
