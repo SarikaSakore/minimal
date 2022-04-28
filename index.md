@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<center><img src="/assets/img/Title.PNG"/></center>
+<img src="/assets/img/Title.PNG"/><br>
 
 <img src="/assets/img/DB.PNG" width="50" height="50"/>   PL/SQL, SQL <br>
 <img src="/assets/img/UNIX.PNG" width="50" height="50"/> UNIX <br>
