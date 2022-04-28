@@ -69,6 +69,7 @@ end
 *   I am learning Data Science, ML, NLP, would like to work on these projects.
 *   Reach to: sarika.sakore@gmail.com
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 <centre><img src="/assets/img/Title.png"/></center>
 
 <img src="/assets/img/DB.png"/>   PL/SQL, SQL <br>
