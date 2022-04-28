@@ -18,3 +18,4 @@
 <img src="/assets/img/GIT.PNG" width="50" height="50"/>  Git and GitHub <br>
 <img src="/assets/img/EXCL.PNG" width="50" height="50"/> Excel <br>
 
+Visit at: https://www.linkedin.com/in/sarika03/
