@@ -62,7 +62,7 @@ end
 
 * * *
 
-### Hello Everypne:
+### Hello Everyone,
 
 *   I am currently working as Support Executive in Telecom domain.
 *   Having experience in PL/SQL, Unix, BI and ETL technologies.
